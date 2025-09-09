@@ -359,6 +359,7 @@ input{
     padding-bottom: 20px;
 }
 
+
 .line{
     height: 1px;
     background-color: white;
@@ -368,7 +369,7 @@ input{
     padding-top: 10px;
 }
 
-.ddat1 > div > div > span {
+.ddat1 > span {
     font-size: 1.3rem;
 }
 
